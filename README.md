@@ -1,4 +1,4 @@
-# COMP30026Utils
+# COMP30026 Utils
 
 This repository contains notes and tools that might be helpful when you are studying COMP30026 Models of Computation.
 
