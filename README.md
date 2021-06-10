@@ -1,6 +1,6 @@
-# HackMOC
+# COMP30026Utils
 
-This repository contains revision notes and some useful resources that might be helpful when doing COMP30026 questions.
+This repository contains notes and tools that might be helpful when you are studying COMP30026 Models of Computation.
 
 ## Local Grok
 
@@ -12,15 +12,13 @@ This repository contains revision notes and some useful resources that might be 
 
 - Clone this repository
 
-- Go to the directory that contains this repository
-
 - run 
 
   ```
-  cd Grok && ghci Main
+  cd COMP30026Utils/Grok && ghci Main
   ```
 
-#### Some useful functions
+#### Some useful functions implemented with Haskell
 
 - complementDFA
 - productDFA
@@ -75,6 +73,6 @@ dfa1 = ([1,2,3,4], "ab", t, 1, [1,2])
 
 ------
 
-## Addtional Resources
+## Contribution
 
-> **Add more resources here that help your revision**
+> **All contributions are welcome! Add more resources here that helps your revision**
