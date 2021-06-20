@@ -1,6 +1,6 @@
-# Awesome COMP30026
+# Awesome MOC
 
-This repository contains notes and tools that might be helpful when you are studying COMP30026 Models of Computation.
+This repository contains notes and tools that might be helpful when you are studying MoC (COMP30026 Models of Computation).:100:
 
 ## Local Grok
 
@@ -15,7 +15,7 @@ This repository contains notes and tools that might be helpful when you are stud
 - run 
 
   ```
-  cd COMP30026Utils/Grok && ghci Main
+  cd awesome-moc/Grok && ghci Main
   ```
 
 #### Some useful functions implemented with Haskell
