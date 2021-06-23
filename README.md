@@ -8,13 +8,15 @@ This repository contains notes and tools that might be helpful when you are stud
 
 [Haskell](https://www.haskell.org/) is used thoughout this subject. Haskell is a general-purpose, statically typed, **purely functional programming language** with type inference and lazy evaluation. 
 
+All the coding material in MoC will be in Haskell but sadly, there is no specific time in the lectures to teach you how to write Haskell code.
+
 #### Where do I learn Haskell?
 
 - School
 
   - [COMP90020](https://handbook.unimelb.edu.au/2021/subjects/comp30020) or [COMP90048 (master equivalent)](https://handbook.unimelb.edu.au/2021/subjects/comp90048) Declarative Programming 
   
-  **Declarative Programming** is not the official prerequisite for taking this subject but it is **highly recommended** to take it before taking the Models of Computation. All the coding material in this subject will be in Haskell and there is no specific time in the lectures to teach you how to write Haskell code.
+  **Declarative Programming** is not the official prerequisite of MoC but it is **highly recommended** to take it before taking MoC. 
 
 - Online
 
